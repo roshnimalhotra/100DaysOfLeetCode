@@ -8,8 +8,8 @@
 
 ## ✨ Progress Tracker
 
-| Day | Problem | Difficulty | Pattern | Link |
-|-----|---------|------------|---------|------|
-| 01  | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers | [Code](Day01/reverse_string.py) |
+| Day | Problem | Difficulty | Pattern       | Link                                        |
+|-----|---------|------------|----------------|---------------------------------------------|
+| 01  | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers | [Code](Day01_ReverseString/reverse_string.py) |
+| 02  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [Code](Day02_ValidPalindrome/valid_palindrome.py) |
 
----
