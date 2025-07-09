@@ -12,4 +12,4 @@
 |-----|---------|------------|----------------|---------------------------------------------|
 | 01  | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers | [Code](Day01_ReverseString/reverse_string.py) |
 | 02  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers | [Code](Day02_ValidPalindrome/valid_palindrome.py) |
-
+| 03  | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Two Pointers | [Code](Day03/two_sum_ii.py) |
